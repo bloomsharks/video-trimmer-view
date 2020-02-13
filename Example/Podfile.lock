@@ -1,0 +1,16 @@
+PODS:
+  - PryntTrimmerView (4.0.0)
+
+DEPENDENCIES:
+  - PryntTrimmerView (from `../`)
+
+EXTERNAL SOURCES:
+  PryntTrimmerView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PryntTrimmerView: f25226097c64a6944f56774840a381655e41788a
+
+PODFILE CHECKSUM: 1cba02c4af0b7f2ae6db56b5124db80ce228bb17
+
+COCOAPODS: 1.8.4
